@@ -1,12 +1,18 @@
 How to run the project?
 
-`$ python generate.py data/xxx.txt data/xxx.txt output.png`
+`python generate.py data/xxx.txt data/xxx.txt output.png`
 
 example
 
-`$ python generate.py data/structure1.txt data/words1.txt output.png`
+`python generate.py data/structure1.txt data/words1.txt output.png`
 
-**Variable**
+**What is the project about?**
+
+This project is a modified version of a crossword generator originally developed as part of the CS50’s Introduction to Artificial Intelligence with Python course.
+The implementation has been adapted to generate compact crosswords using Portuguese verbs.
+The purpose of this modification is to support language learners and readers of 69 Key European Portuguese Verbs by PortuGate.
+
+**Variables**
 
 Type: custom class (crossword.Variable)
 
